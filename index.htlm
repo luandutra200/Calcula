@@ -32,7 +32,7 @@ body, html {
         var Valor2 = document.getElementById("s2").value;
         var Valor3 = document.getElementById("s3").value;
         var Valor4 = document.getElementById("s4").value;
-        var Valor5 = ('1');
+        var Valor5 = ('126  4564 ')
         var Valor6 = parseInt(Valor4) / ('100');
         var calcular = parseFloat(Valor1) *Math.pow((parseFloat(Valor5) + parseFloat(Valor3)),parseFloat(Valor6)) + parseFloat(Valor2) * (Math.pow((parseFloat(Valor5) + parseFloat(Valor3)),parseFloat(Valor6)) - parseFloat(Valor5)) / parseFloat(Valor3);
         alert('Seu lucro em  '+Valor4+' meses sera R$: '+calcular.toFixed('2')+". "+' clique em OK para Sair');
@@ -40,7 +40,7 @@ body, html {
     }
 </script>
 <body>
-
+j
 <right-floated links on small screens and replace them with a menu icon -->
 
    <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
